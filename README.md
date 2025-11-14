@@ -1,9 +1,14 @@
+# It comes to an end.
+
+This is a Hackathon project for Garuda Hacks 6.0, and this project is shutting down. You may expect incomplete or broken features and it's not intended to be used.
+
+---
+
 [![test](/public/images/thumbnail.png)](https://claise.hexaa.sh/)
 # Claisse - Educational Platform for improving studying technique
 
 Claisse is an educational platform that utalize AI for making automated quiz based on the student perference of study and their study interest. 
 Built with Next.js for frontend and backend, Supabase and Hono for database. 
-
 
 ## Features
 - User Authentication (Teachers and Students)
